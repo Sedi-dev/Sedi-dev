@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Lesedi
+🎓 Aspiring software developer passionate about Python and problem solving. 
 
-<!--
-**Sedi-dev/Sedi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+~ Building Python-based projects to strengthen programming fundamentals
+~ Developing logical thinking through algorithms and real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+~ Python
+~ Data structures
+~ Problem solving
+~ Input validation & program design
+
+---
+
+## 📌 Projects
+~ 🟩 Wordle Game (algorithm & logic)
+~ 🔐 Password Generator (security & randomness)
+~ 📊 Student Marks System (data analysis)
+
+---
+
+## 🎯 Goals
+~ Build more advanced applications
+~ Learn software development best practices
+~ Transition into full-stack
