@@ -7,7 +7,9 @@
 
 🧠 About Me
 
-I'm currently studying Computer Science and actively developing my skills through hands-on projects. I enjoy breaking down problems, writing clean code, and transforming ideas into functional applications.
+I'm currently studying Computer Science and actively developing my skills through hands-on projects. 
+
+I enjoy breaking down problems, writing clean code, and transforming ideas into functional applications.
 
 Right now, I am focused on strengthening my understanding of:
 
@@ -47,14 +49,19 @@ Here are some of the projects I've been working on:
    A word puzzle game that replicates core Wordle mechanics using Python logic and string manipulation.
 ~ 🔐 Password Generator (security & randomness)
 ~ 📊 Student Marks System (data analysis)
-~ 💡 More projects coming soon as I continue to build and improve.
+
+🚧 ## Currently Building
+~ Expanding into full-stack development
+~ Working on more advanced, real world projects
 
 ---
 
 ## 🎯 Current Goals
-~ Build more advanced applications
+~ Build more advanced applications that solve real problems
 ~ Learn software development best practices
 ~ Transition into full-stack
+~ Strengthening backend and full-stack development skills
+~ Improving code structure and best practices
 
 ---
 
