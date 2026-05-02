@@ -15,24 +15,24 @@ Rather than only studying theory, I enjoy breaking down problems, writing clean 
 
 Right now, I am focused on strengthening my understanding of:
 
-  ~ Software development fundamentals
-  ~ Web development (front-end & back-end)
-  ~ Writing structured, maintainable code
-  ~ Input validation and user interaction
+  - Software development fundamentals
+  - Web development (front-end & back-end)
+  - Writing structured, maintainable code
+  - Input validation and user interaction
 
 ---
 
 🛠️ Tech Stack
 
- ~ Languages: Python, Delphi
- ~ Tools: Git, Github
- ~ Currently Learning: Full-stack development
+ - Languages: Python, Delphi
+ - Tools: Git, Github
+ - Currently Learning: Full-stack development
 
  ---
 
 ## 🚀 What I'm Working On
-~ Building Python-based projects to strengthen programming fundamentals
-~ Developing logical thinking through algorithms and real-world applications
+- Building Python-based projects to strengthen programming fundamentals
+- Developing logical thinking through algorithms and real-world applications
 
 ---
 
@@ -90,10 +90,10 @@ Ability to work with structured data and build real-world systems.
 ---
 
 ## 🧠 Skills
-~ Python
-~ Data structures (Lists, Dictionaries) 
-~ Problem solving & Algorithm Design
-~ Input validation & Error Handling
+- Python
+- Data structures (Lists, Dictionaries) 
+- Problem solving & Algorithm Design
+- Input validation & Error Handling
 
 ---
 
@@ -101,23 +101,24 @@ Ability to work with structured data and build real-world systems.
 
 Here are some of the projects I've been working on: 
 
-~ 🟩 Wordle Game (algorithm & logic)
+- 🟩 Wordle Game (algorithm & logic)
    A word puzzle game that replicates core Wordle mechanics using Python logic and string manipulation.
-~ 🔐 Password Generator (security & randomness)
-~ 📊 Student Marks System (data analysis)
+- 🔐 Password Generator (security & randomness)
+- 📊 Student Marks System (data analysis)
 
-🚧 ## Currently Building
-~ Expanding into full-stack development
-~ Working on more advanced, real world projects
+## 🚧 Currently Building
+
+- Expanding into full-stack development
+- Working on more advanced, real world projects
 
 ---
 
 ## 🎯 Current Goals
-~ Build more advanced applications that solve real problems
-~ Learn software development best practices
-~ Transition into full-stack
-~ Strengthening backend and full-stack development skills
-~ Improving code structure and best practices
+- Build more advanced applications that solve real problems
+- Learn software development best practices
+- Transition into full-stack
+- Strengthening backend and full-stack development skills
+- Improving code structure and best practices
 
 ---
 
