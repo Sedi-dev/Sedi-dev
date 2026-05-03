@@ -122,7 +122,7 @@ Here are some of the projects I've been working on:
 
 ---
 
-📈 Learning Approach
+## 📈 Learning Approach
 
 I focus on:
 
@@ -130,6 +130,14 @@ I focus on:
 - Breaking down problems into smaller steps
 - Improving each project through iteration
 - Writing clean, readable code
+
+---
+
+## 📅 Development Timeline
+
+All projects were developed locally throughout **April 2026** with multiple iterations before being published to Github on April 26. Commits reflect final polished versions, not rushed work. 
+
+[View my learning journey in the "Challenges Faced" sections od each project ↓]
 
 ---
 
