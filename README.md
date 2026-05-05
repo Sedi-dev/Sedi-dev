@@ -9,7 +9,7 @@
 
 🧠 About Me
 
-I'm currently studying Computer Science and actively developing my skills through hands-on projects. I am focused on building practical projects to strengthen my understanding of programming concepts.
+I'm currently studying Computer Science and actively developing my skills through hands-on projects. I am focused on building practical projects to strengthen my understanding of computer science concepts.
 
 Rather than only studying theory, I enjoy breaking down problems, writing clean code, and transforming ideas into functional applications.
 
