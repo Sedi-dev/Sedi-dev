@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Lesedi
+
 🎓 First-year Computer Science student based in South Africa
 💻 Aspiring Full-Stack Developer with a strong foundation in problem solving and programming
 🚀 Focusing on building practical, real-world projects and continuously improving my skills
@@ -24,13 +25,14 @@ Right now, I am focused on strengthening my understanding of:
 
 🛠️ Tech Stack
 
- - Languages: Python, Delphi
+ - Languages: Python
  - Tools: Git, Github
  - Currently Learning: Full-stack development
 
  ---
 
 ## 🚀 What I'm Working On
+
 - Building Python-based projects to strengthen programming fundamentals
 - Developing logical thinking through algorithms and real-world applications
 
@@ -52,6 +54,7 @@ Structured feedback system (*, +, -)
 Strong problem-solving ability and understanding of algorithm design.
 
 🔗 https://github.com/Sedi-dev/wordle-game-python
+
 --- 
 
 ### 🔐 Password Generator (Python)
@@ -69,6 +72,7 @@ Input validation and clean CLI interface
 Understanding of security basics, randomness, and validation logic.
 
 🔗 https://github.com/Sedi-dev/password-generator
+
 ---
 
 ### 📊 Student Marks Management System (Python)
@@ -90,6 +94,7 @@ Ability to work with structured data and build real-world systems.
 ---
 
 ## 🧠 Skills
+
 - Python
 - Data structures (Lists, Dictionaries) 
 - Problem solving & Algorithm Design
@@ -114,6 +119,7 @@ Here are some of the projects I've been working on:
 ---
 
 ## 🎯 Current Goals
+
 - Build more advanced applications that solve real problems
 - Learn software development best practices
 - Transition into full-stack
@@ -137,7 +143,7 @@ I focus on:
 
 All projects were developed locally throughout **April 2026** with multiple iterations before being published to Github on April 26. Commits reflect final polished versions, not rushed work. 
 
-[View my learning journey in the "Challenges Faced" sections od each project ↓]
+[View my learning journey in the "Challenges Faced" sections of each project ↓]
 
 ---
 
