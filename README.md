@@ -54,7 +54,7 @@ Structured feedback system (*, +, -)
 👉 Why I built this:
 To enhance my problem-solving ability and understanding of algorithm design.
 
-🔗 https://github.com/Sedi-dev/wordle-game-python
+🔗 https://github.com/Sedi-dev/wordle-game
 
 --- 
 
