@@ -2,7 +2,7 @@
 
 🎓 First-year Computer Science student based in South Africa
 💻 Aspiring Full-Stack Developer with a strong foundation in problem solving and programming
-🚀 Focusing on building practical, real-world projects and continuously improving my skills
+🚀 Focusing on building real-world projects that actually work and continuously improving my skills
 💡 Passionate about problem-solving, building systems, and learning through projects
 🚀 Currently developing a strong foundation in Python and software design
 
@@ -51,8 +51,8 @@ Input validation
 Word matching algorithm with duplicate handling
 Structured feedback system (*, +, -)
 
-👉 What it shows:
-Strong problem-solving ability and understanding of algorithm design.
+👉 Why I built this:
+To enhance my problem-solving ability and understanding of algorithm design.
 
 🔗 https://github.com/Sedi-dev/wordle-game-python
 
@@ -69,8 +69,8 @@ Ensures character variety (lowercase, uppercase, digits, symbols)
 Password strength scoring system (0–100)
 Input validation and clean CLI interface
 
-👉 What it shows:
-Understanding of security basics, randomness, and validation logic.
+👉 Why I built this:
+To have an understanding of security basics, randomness, and validation logic.
 
 🔗 https://github.com/Sedi-dev/password-generator
 
@@ -87,8 +87,8 @@ Calculates averages and assigns grades
 Identifies best and worst subjects
 Structured report output
 
-👉 What it shows:
-Ability to work with structured data and build real-world systems.
+👉 Why I built this:
+To develop an ability to work with structured data and build real-world systems.
 
 🔗 https://github.com/Sedi-dev/student-marks-system
 
@@ -137,14 +137,6 @@ I focus on:
 - Breaking down problems into smaller steps
 - Improving each project through iteration
 - Writing clean, readable code
-
----
-
-## 📅 Development Timeline
-
-All projects were developed locally throughout **April 2026** with multiple iterations before being published to Github on April 26. Commits reflect final polished versions, not rushed work. 
-
-[View my learning journey in the "Challenges Faced" sections of each project ↓]
 
 ---
 
