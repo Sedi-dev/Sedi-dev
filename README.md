@@ -12,7 +12,7 @@
 
 I'm currently studying Computer Science and actively developing my skills through hands-on projects. I am focused on building practical projects to strengthen my understanding of computer science concepts.
 
-Rather than only studying theory, I enjoy breaking down problems, writing clean code, and transforming ideas into functional applications.
+Rather than only studying theory, I enjoy breaking down problems, writing clean code, and transforming ideas into functional applications. I enjoy learning and working with others to solve problems. 
 
 Right now, I am focused on strengthening my understanding of:
 
@@ -39,6 +39,7 @@ Right now, I am focused on strengthening my understanding of:
 ---
 
 ## 🚀 Projects
+
 ### 🧩 Wordle Game (Python)
 
 A command-line implementation of the Wordle game focusing on algorithm design and game logic.
